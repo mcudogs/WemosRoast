@@ -1,6 +1,7 @@
 Partlist
 
 Part Value                     Device
+TO   30 litre toaster oven     Used
 Q1   BC548                     BC548
 R1   10K 1/8W                  Resistor
 RLY1 80A SSR-80DA              Banggood https://www.banggood.com/80A-SSR-80DA-Solid-State-Relay-Module-DC-To-AC-24V-380V-Output-p-1097188.html?akmClientCountry=AU&cur_warehouse=CN
